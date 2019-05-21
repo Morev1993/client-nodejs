@@ -1,6 +1,6 @@
 {
   "name": "@cardpay/pipedrive",
-  "version": "6.0.16",
+  "version": "6.0.17",
   "description": "Pipedrive REST client for NodeJS",
   "keywords": [
     "pipedrive",
